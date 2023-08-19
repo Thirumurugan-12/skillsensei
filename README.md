@@ -9,6 +9,7 @@ FlutterFlow projects are built to run on the Flutter _stable_ release.
 ### Getting started continued:
 
 This project is a starting point for a Flutter application.
+![WhatsApp Image 2023-08-19 at 11 17 34 PM](https://github.com/Thirumurugan-12/skillsensei/assets/76591903/5f32ec1e-3930-4fe6-95ff-128213cf8f0c)
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -18,3 +19,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
